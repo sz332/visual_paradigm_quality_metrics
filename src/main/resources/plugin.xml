@@ -1,0 +1,5 @@
+<plugin
+        id="QualityMetrics"
+        description="Quality Metrics plugin"
+        provider="zsolt.sandor@gmail.com"
+        class="com.acme.visualparadigm.qualitymetrics.QualityMetricsPlugin" />
